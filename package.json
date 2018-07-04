@@ -23,7 +23,11 @@
     "bluebird": "^3.5.1",
     "oauth-1.0a": "^2.2.4",
     "request": "^2.87.0",
-    "create-hmac": "^1.1.7"
+    "create-hmac": "^1.1.7",
+    "jsbn": "~0.1.0",
+    "tweetnacl": "~0.14.0",
+    "ecc-jsbn": "~0.1.1",
+    "bcrypt-pbkdf": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
