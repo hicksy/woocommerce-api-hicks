@@ -1,6 +1,6 @@
 {
-  "name": "woocommerce-api",
-  "description": "A Node.js wrapper for the WooCommerce REST API",
+  "name": "woocommerce-api-hicks",
+  "description": "A Node.js wrapper for the WooCommerce REST API - modified to support create-hmac - if official lib fixes this then siwtch back to verion 1.4.3 or higher",
   "version": "1.4.2",
   "scripts": {
     "lint": "jshint .",
